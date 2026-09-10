@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Controllers",
+    "\\app\\Views",
+    "\\public",
+    "\\writable",
+    "\\writable\\logs"
+  ],
+  "SelectedNode": "\\app\\Views\\users.php",
+  "PreviewInSolutionExplorer": false
+}

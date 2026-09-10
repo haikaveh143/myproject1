@@ -1,0 +1,180 @@
+CRITICAL - 2026-09-10 09:48:20 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 09:48:23 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:00:35 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:01:48 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:01:49 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:01:55 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:01:56 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:02:02 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:02:47 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:03:02 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\Pages.php(14): view('about')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:06:21 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: about]
+in APPPATH\Views\about.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('about', [], true)
+ 3 APPPATH\Controllers\Pages.php(14): view('about')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->about()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:06:24 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:12:44 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:12:47 --> ParseError: syntax error, unexpected token "<", expecting end of file
+[Method: GET, Route: /]
+in APPPATH\Views\home.php on line 2.
+ 1 SYSTEMPATH\View\View.php(243): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('home', [], true)
+ 3 APPPATH\Controllers\Pages.php(9): view('home')
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Pages->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2026-09-10 10:32:18 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "users.php"
+[Method: GET, Route: users]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('users.php')
+ 2 SYSTEMPATH\Common.php(1268): CodeIgniter\View\View->render('users', [], true)
+ 3 APPPATH\Controllers\Users.php(37): view('users', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(974): App\Controllers\Users->index()
+ 5 SYSTEMPATH\CodeIgniter.php(520): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Users))
+ 6 SYSTEMPATH\CodeIgniter.php(363): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(417): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(68): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(59): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
