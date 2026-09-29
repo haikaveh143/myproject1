@@ -16,17 +16,16 @@
 
     <hr>
 
-    <?php foreach ($users as $user): ?>
+<?php foreach ($users as $user): ?>
 
-        <p>
-            <strong><?= esc($user['username']) ?></strong><br>
-            Name: <?= esc($user['full_name']) ?><br>
-            Role: <?= esc($user['role']) ?>
-        </p>
+    <p>
+        <strong><?= esc($user['username']) ?></strong><br>
+        Name: <?= esc($user['full_name']) ?>
+    </p>
 
-        <hr>
+    <hr>
 
-    <?php endforeach; ?>
+<?php endforeach; ?>
 
 </body>
 </html>

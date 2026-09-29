@@ -46,15 +46,15 @@
             </tr>
         </thead>
 
-        <tbody>
-            <?php foreach ($customers as $customer): ?>
-                <tr>
-                    <td><?= $customer['full_name'] ?></td>
-                    <td><?= $customer['email'] ?></td>
-                    <td><?= $customer['phone'] ?></td>
-                </tr>
-            <?php endforeach; ?>
-        </tbody>
+<tbody>
+    <?php foreach ($customers as $customer): ?>
+        <tr>
+            <td><?= esc($customer['full_name']) ?></td>
+            <td><?= esc($customer['email']) ?></td>
+            <td><?= esc($customer['phone']) ?></td>
+        </tr>
+    <?php endforeach; ?>
+</tbody>
     </table>
 
 </body>
